@@ -104,3 +104,7 @@ auto-register with zero Report-View errors.
 
 Code is MIT (see `LICENSE` and the SPDX headers). The schema in
 `SCHEMA.md` is free to implement/adopt.
+
+## Transparency
+
+Built with [Claude Code](https://claude.com/claude-code).
